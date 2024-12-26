@@ -10,7 +10,7 @@ Using this approach, we can provide a "Jackbox-like" game experience to connecte
 
 1) Clone this repository from Github:
 
-```git clone git@github.com:craighuang5/jackbox_server.git```
+```git clone git@github.com:craig-huang-dev/canvas_clash_server.git```
 
 2) Install dependencies:
 
