@@ -1,5 +1,9 @@
 # Jackbox Server
 
+## Canvas Clash Demo
+
+[![Demo](https://img.shields.io/badge/Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/Z58vg66_mvg)
+
 ## About
 
 This server handles WebSocket connections using [Socket.io](https://socket.io/). Clients are able to create, join, and leave *rooms* based on provided *game IDs*. The server can then send game data to clients based on their room.
